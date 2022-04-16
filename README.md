@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RanjithAnkilla
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Advance JavaScript
+- 🌱 I’m currently learning React (JavaScript library)
 - 💞️ I’m looking to collaborate on javascript related projects
 - 📫 Reach out ra.dev@outlook.com
